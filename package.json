@@ -1,0 +1,19 @@
+{
+  "name": "Gulp-Segundo-Ejemplo",
+  "version": "1.0.0",
+  "description": "Segundo Ejemplo de Gulp.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cesar Gonzalez",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^1.6.2",
+    "gulp": "^3.8.9",
+    "gulp-concat": "^2.4.1",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^1.0.1",
+    "gulp-watch": "^1.1.0"
+  }
+}
